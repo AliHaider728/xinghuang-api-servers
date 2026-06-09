@@ -1,9 +1,6 @@
 node_modules/
 dist/
-coverage/
 .env
-.DS_Store
+.env.local
 *.log
-.idea/
-.vscode/
-*.tsbuildinfo
+.replit-artifact/
